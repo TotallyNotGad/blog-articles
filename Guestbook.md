@@ -18,7 +18,7 @@ Anyways, have fun!
 > How many comments will it take to trigger a 507? :blobcreep:
 
 > **Gad:** <br>
-> im sure google will complain well before that
+> im sure google will complain well before that, so dont bother trying :)
 
 <style>
     #commentForm input {
