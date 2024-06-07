@@ -14,6 +14,11 @@ Anyways, have fun!
 > **Gad:** <br>
 > First! :P
 
+> **Kat:** <br>
+> How many comments will it take to trigger a 507? :blobcreep:
+
+> **Gad: <br>
+> im sure google will complain well before that
 
 <style>
     #commentForm input {
