@@ -1,3 +1,6 @@
+A public comment section, what could possibly go wrong?
+
+---
 HI, not an article, but i thought it would be cool to make a guestbook for people to post on.
 
 Comments are currently moderated manually, so it might take some time for your comment to appear, and its not the most robust thing in the world.
