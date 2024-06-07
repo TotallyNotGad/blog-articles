@@ -17,7 +17,7 @@ Anyways, have fun!
 > **Kat:** <br>
 > How many comments will it take to trigger a 507? :blobcreep:
 
-> **Gad: <br>
+> **Gad:** <br>
 > im sure google will complain well before that
 
 <style>
